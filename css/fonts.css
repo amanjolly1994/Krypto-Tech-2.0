@@ -1,0 +1,52 @@
+@font-face{
+	font-family:Sourcesans;
+	src: url(../fonts/Source_Sans_Pro/SourceSansPro-Light.ttf) format("truetype");
+}
+
+@font-face{
+	font-family:Ubuntu;
+	src: url(../fonts/Ubuntu/Ubuntu-Light.ttf) format("truetype");
+}
+
+@font-face{
+	font-family:UbuntuRegular;
+	src: url(../fonts/Ubuntu/Ubuntu-Regular.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: Myriad;
+	src: url(../fonts/Myriad/MyriadPro-Light.otf) format("opentype");
+}
+
+@font-face {
+	font-family: dosis;
+	src: url(../fonts/Dosis/Dosis-Regular.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: Exo;
+	src: url(../fonts/Exo_2/Exo2-Light.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: Mos;
+	src: url(../fonts/Montserrat/Montserrat-Regular.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: roboto;
+	src: url(../fonts/Roboto/Roboto-Regular.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: roboto-light;
+	src: url(../fonts/Roboto/Roboto-Light.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: robotoThin;
+	src: url(../fonts/Roboto/Roboto-Thin.ttf) format("truetype");
+}
+
+
+
